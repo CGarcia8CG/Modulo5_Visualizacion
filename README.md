@@ -15,7 +15,7 @@ Requiere algunas librerias y su pertinente actualización
 * Navegar hasta esta con el uso del comando "cd"
 * python appC.py
 * Abrir en el navegador la ruta http://127.0.0.1:8080/
-* Profit
+* Profit [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
 
 ### Por menores
 Esta app funciona sin problema en FireFox y Chrome, otros navegadores no fueron probados.
